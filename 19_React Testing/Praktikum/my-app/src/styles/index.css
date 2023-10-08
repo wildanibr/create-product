@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+flex-direction: column;
+align-items: center;
+justify-items: center;
+gap: 10px;
+  }
+nav{
+width: 100%;
+}
+.create{
+color: #212529;
+text-align: center;
+font-family: Roboto;
+font-size: 31px;
+font-style: normal;
+font-weight: 500;
+line-height: 38.4px; 
+}
+
+th{
+    padding: 10px 20px 10px 20px;
+    text-align: left;
+   }
+
+   .btn-danger{
+    background-color: red;
+    margin-top: 10px;
+   }
+   
+.describe{
+color: #212529b3;
+text-align: center;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 300;
+line-height: 30px; 
+width: 921.419px;
+}
+
+.detail{
+color: #212529;
+font-family: Roboto;
+font-size: 23px;
+font-style: normal;
+font-weight: 500;
+line-height: 28.8px; 
+}
